@@ -1,3 +1,6 @@
-name: Hello World!
-title: null
-theme: jekyll-theme-minimal
+locale                   : "en-US"
+title                    : "Hello World!"
+title_separator          : "-"
+name                     : &name "Vikas Chandrashekar"
+description              : &description "Software Engineer & Consultant"
+theme                    : jekyll-theme-minimal
