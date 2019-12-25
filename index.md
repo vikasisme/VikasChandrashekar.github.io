@@ -9,6 +9,10 @@ permalink: /
 I'm a full stack developer with focus on building and deploying web apps. 
 
 # What I do?
-... - writing code
-... - deploying code, configuring servers, scaling clusters, monitoring apps, fixing and breaking things.
+- write code
+- deploy code
+- configuring servers
+- scaling clusters
+- monitoring apps
+
 
