@@ -1,10 +1,12 @@
 locale                   : "en-US"
 title                    : "Vikas Chandrashekar"
-title_separator          : "-"
-name                     : &name "Vikas Chandrashekar"
-description              : &description "Software Engineers"
-theme                    : jekyll-theme-minimal
+# Build settings
+markdown                 : kramdown
 remote_theme             : b2a3e8/jekyll-theme-console
+
+# page settings
 footer                   : '<a href = "mailto: vikas.chandrashekar@outlook.com">email</a> 
                             <a href = "https://github.com/VikasChandrashekar">github</a>
                             <a href = "">resume</a>'
+header_pages             :
+  - index.md
