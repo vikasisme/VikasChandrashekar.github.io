@@ -4,3 +4,5 @@ title_separator          : "-"
 name                     : &name "Vikas Chandrashekar"
 description              : &description "Software Engineer."
 theme                    : jekyll-theme-console
+
+theme: jekyll-theme-leap-day
