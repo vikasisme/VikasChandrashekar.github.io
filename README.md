@@ -1,1 +1,1 @@
-My name is Vikas Chandrashekar and I write code for living. 
+Hi, I am Vikas. I'm a full stack developer who focuses on building and deploying web apps/services. My day to day duties include writing code, deploying code, configuring servers, scaling clusters, monitoring apps and reading blog posts at 12AM.
