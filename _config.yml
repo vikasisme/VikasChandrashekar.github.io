@@ -2,7 +2,5 @@ locale                   : "en-US"
 title                    : "Vikas Chandrashekar"
 title_separator          : "-"
 name                     : &name "Vikas Chandrashekar"
-description              : &description "Software Engineer."
-theme                    : jekyll-theme-console
-
-theme: jekyll-theme-minimal
+description              : &description "Software Engineers"
+theme                    : jekyll-theme-minimal
