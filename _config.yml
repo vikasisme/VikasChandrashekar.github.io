@@ -10,3 +10,4 @@ footer                   : '<a href = "mailto: vikas.chandrashekar@outlook.com">
                             <a href = "">resume</a>'
 header_pages             :
   - index.md
+  - articles.md
