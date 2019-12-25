@@ -5,3 +5,4 @@ name                     : &name "Vikas Chandrashekar"
 description              : &description "Software Engineers"
 theme                    : jekyll-theme-minimal
 remote_theme             : b2a3e8/jekyll-theme-console
+footer                   : 'email me @<a href="vikas.chandrashekar@outlook.com">email</a>'
