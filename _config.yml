@@ -6,4 +6,5 @@ description              : &description "Software Engineers"
 theme                    : jekyll-theme-minimal
 remote_theme             : b2a3e8/jekyll-theme-console
 footer                   : '<a href = "mailto: vikas.chandrashekar@outlook.com">email</a> 
-                            <a href = "https://github.com/VikasChandrashekar">github</a>'
+                            <a href = "https://github.com/VikasChandrashekar">github</a>
+                            <a href = "">resume</a>'
