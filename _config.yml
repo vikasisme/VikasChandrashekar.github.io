@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Vikas Chandrashekar"
 # Build settings
 markdown                 : kramdown
-remote_theme             : b2a3e8/jekyll-theme-console
+remote_theme             : VikasChandrashekar/jekyll-theme-console
 
 # page settings
 footer                   : '<a href = "mailto: vikas.chandrashekar@outlook.com">email</a> 
