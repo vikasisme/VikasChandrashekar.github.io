@@ -1,6 +1,6 @@
 ---
 title: /vikas
-layout: home
+layout: default
 permalink: /
 ---
 
