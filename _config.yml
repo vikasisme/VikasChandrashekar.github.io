@@ -1,5 +1,5 @@
 locale                   : "en-US"
-title                    : 'vee-ka-ss'
+title                    : 'v-ka-ss'
 # Build settings
 markdown                 : kramdown
 remote_theme             : VikasChandrashekar/jekyll-theme-console
