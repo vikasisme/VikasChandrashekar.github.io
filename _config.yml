@@ -3,8 +3,8 @@ remote_theme             : VikasChandrashekar/dactl
 
 # page settings
 blog:
-  title                      : V-ka-ss
-  description                : #
+  title                      : Vikas
+  description                : Software Engineer
 # Layout configuration
   logo_path                  : "assets/img/logo.png"
   search_path                : "VikasChandrashekar.github.io"
