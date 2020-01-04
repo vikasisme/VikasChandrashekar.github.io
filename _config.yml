@@ -6,7 +6,7 @@ blog:
   title                      : V-ka-ss
   description                : #
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg"
+  logo_path                  : "assets/img/logo.png"
   search_path                : "VikasChandrashekar.github.io"
   hero_layout                : false
   hero_placeholder           : # "assets/img/generic_hero.jpg"
