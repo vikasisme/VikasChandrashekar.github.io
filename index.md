@@ -1,6 +1,7 @@
 ---
-title: About me
-layout: blog
+title: About
+layout: page
+permalink: /
 ---
 
 Hi! I'm a full stack developer with focus on architecting, building, deploying and operating distributed/cloud native web apps. 
