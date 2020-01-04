@@ -1,12 +1,9 @@
 ---
-title: /vikas
-layout: default
-permalink: /
+title: About me
+layout: blog
 ---
 
-###### Hi! I am Vikas Chandrashekar.
-  
-I'm a full stack developer with focus on architecting, building, deploying and operating distributed/cloud native web apps. 
+Hi! I'm a full stack developer with focus on architecting, building, deploying and operating distributed/cloud native web apps. 
 
 ###### everday tasks include,
 writing code, deploying code, configuring servers, scaling clusters and monitoring apps.
