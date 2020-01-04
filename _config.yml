@@ -3,7 +3,7 @@ remote_theme             : VikasChandrashekar/dactl
 
 # page settings
 blog:
-  title                      : <dev>to</prod>
+  title                      : Vikas Chandrashekar
   description                : #
 # Layout configuration
   logo_path                  : "assets/img/logo.png"
