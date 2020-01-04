@@ -2,11 +2,39 @@ locale                   : "en-US"
 title                    : 'v-ka-ss'
 # Build settings
 markdown                 : kramdown
-remote_theme             : VikasChandrashekar/jekyll-theme-console
+remote_theme             : melangue/dactl
 
 # page settings
-footer                   : '<a href = "mailto: vikas.chandrashekar@outlook.com">email</a> 
-                            <a href = "https://github.com/VikasChandrashekar">github</a>
-                            <a href = "">resume</a>'
-header_pages             :
-  - index.md
+blog:
+  title                      : Vikas
+  description                : Software Engineer
+# Layout configuration
+  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  search_path                : # "yourgitusername.github.io"
+                               # needed for searchbox in archive page
+  hero_layout                : false # turn on hero layout for blog and posts
+  hero_placeholder           : # "assets/img/generic_hero.jpg" # placeholder for hero image
+  excerpts                   : true # show excerpts instead of full post content on blog page
+  inline_footnotes           : true # enable/disable barefoot inline footnotes
+  titles_only                : false # show post titles only on main blog page
+
+# Fonts
+  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
+  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
+
+
+# Author info
+author:
+  fullname                  : Vikas Chandrashekar
+  rss                       : false # generate RSS feed and show it's icon in header
+  mail                      : vikas.chandrashekar@outlook.com # change to your e-mail address
+  # twitter                   : twitter-user-name
+  github                    : github-user-name
+  # youtube                   : youtube-user-name
+  # stackoverflow             : stackoverflow-user-name
+  disqus                    : dactl # your disqus site name
+  google_analytics          : # 'UA-XXXXXXXX-X'
+  photo                     : "uploads/me2.png"
+  photo2x                   : "uploads/me.png"
+
+
