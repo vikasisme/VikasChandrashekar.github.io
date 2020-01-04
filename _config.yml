@@ -1,22 +1,18 @@
-locale                   : "en-US"
-title                    : 'v-ka-ss'
 # Build settings
-markdown                 : kramdown
-remote_theme             : melangue/dactl
+remote_theme             : VikasChandrashekar/dactl
 
 # page settings
 blog:
-  title                      : Vikas
-  description                : Software Engineer
+  title                      : V-ka-ss
+  description                : #
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
-                               # needed for searchbox in archive page
-  hero_layout                : false # turn on hero layout for blog and posts
-  hero_placeholder           : # "assets/img/generic_hero.jpg" # placeholder for hero image
-  excerpts                   : true # show excerpts instead of full post content on blog page
-  inline_footnotes           : true # enable/disable barefoot inline footnotes
-  titles_only                : false # show post titles only on main blog page
+  logo_path                  : "assets/img/dactl.svg"
+  search_path                : "VikasChandrashekar.github.io"
+  hero_layout                : false
+  hero_placeholder           : # "assets/img/generic_hero.jpg"
+  excerpts                   : true 
+  inline_footnotes           : true 
+  titles_only                : false 
 
 # Fonts
   font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
@@ -26,14 +22,11 @@ blog:
 # Author info
 author:
   fullname                  : Vikas Chandrashekar
-  rss                       : false # generate RSS feed and show it's icon in header
-  mail                      : vikas.chandrashekar@outlook.com # change to your e-mail address
-  # twitter                   : twitter-user-name
-  github                    : github-user-name
-  # youtube                   : youtube-user-name
-  # stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
+  rss                       : false 
+  mail                      : vikas.chandrashekar@outlook.com 
+  github                    : VikasChandrashekar
+  disqus                    : v-ka-s
+  google_analytics          : #
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
 
