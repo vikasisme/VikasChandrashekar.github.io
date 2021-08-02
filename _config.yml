@@ -7,7 +7,7 @@ blog:
   description                : #
 # Layout configuration
   logo_path                  : "assets/img/logo.png"
-  search_path                : "VikasChandrashekar.github.io"
+  search_path                : "https://github.com/vikasisme"
   hero_layout                : false
   hero_placeholder           : # "assets/img/generic_hero.jpg"
   excerpts                   : true 
